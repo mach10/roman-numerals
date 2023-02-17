@@ -1,0 +1,3 @@
+-i https://pypi.theorchard.io/pypi/
+
+pytest
